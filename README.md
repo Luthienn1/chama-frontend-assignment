@@ -2,7 +2,9 @@
 
 <p align="center">Interface for searching github users</p>
 
-<img src="https://github.com/Luthienn1/chama-frontend-assignment/blob/master/src/assets/chamatheapp.gif" align="center">
+<p align="center">
+  <img src="https://github.com/Luthienn1/chama-frontend-assignment/blob/master/src/assets/chamatheapp.gif" />
+</p>
 
 <p align="center">
  <a href="#goal">Goal</a> •
@@ -14,7 +16,7 @@
 
 ### Goal
 
-Test my knowledge of the technologies of the project through a real challenge of a company in search of developers. I am not participating in the tryouts, but the challenge is open to anyone who wants to do so.
+Test my knowledge of the technologies (mainly redux) of the project through a real challenge of a company in search of developers. I am not participating in the tryouts, but the challenge is open to anyone who wants to do so.
 
 ### Techs
 
