@@ -2,6 +2,8 @@
 
 <p align="center">Interface for searching github users</p>
 
+![Alt text](https://github.com/Luthienn1/chama-frontend-assignment/blob/master/src/assets/chamatheapp.gif)
+
 <p align="center">
  <a href="#goal">Goal</a> •
  <a href="#techs">Techs</a> •
