@@ -2,7 +2,7 @@
 
 <p align="center">Interface for searching github users</p>
 
-![Alt text](https://github.com/Luthienn1/chama-frontend-assignment/blob/master/src/assets/chamatheapp.gif)
+<img src="https://github.com/Luthienn1/chama-frontend-assignment/blob/master/src/assets/chamatheapp.gif" align="center">
 
 <p align="center">
  <a href="#goal">Goal</a> •
